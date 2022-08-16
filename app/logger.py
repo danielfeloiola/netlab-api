@@ -8,7 +8,7 @@ import os
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s %(name)s %(levelname)s %(message)s',
-    handlers=[logging.FileHandler('logs.log', 'a')]
+    handlers=[logging.FileHandler('app/logs.log', 'a')]
     )
 
 # cria o logger

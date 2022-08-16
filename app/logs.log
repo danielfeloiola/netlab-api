@@ -1,45 +1,14 @@
-2022-08-15 14:00:24,713 uvicorn.error INFO Shutting down
-2022-08-15 14:00:24,821 uvicorn.error INFO Waiting for application shutdown.
-2022-08-15 14:00:24,823 uvicorn.error INFO Application shutdown complete.
-2022-08-15 14:00:24,825 uvicorn.error INFO Finished server process [21882]
-2022-08-15 14:00:27,087 uvicorn.error INFO Started server process [21890]
-2022-08-15 14:00:27,170 uvicorn.error INFO Waiting for application startup.
-2022-08-15 14:00:27,174 uvicorn.error INFO Application startup complete.
-2022-08-15 14:00:30,352 root INFO CHAMADA url=http://127.0.0.1:8000/classifier?sepal_lenght=5.1&sepal_width=4.0&petal_lenght=3&petal_width=1
-2022-08-15 14:00:30,360 root INFO RESPOSTA: {'species': 'versicolor'}
-2022-08-15 14:01:13,898 uvicorn.error INFO Shutting down
-2022-08-15 14:01:14,005 uvicorn.error INFO Waiting for application shutdown.
-2022-08-15 14:01:14,008 uvicorn.error INFO Application shutdown complete.
-2022-08-15 14:01:14,010 uvicorn.error INFO Finished server process [21890]
-2022-08-15 14:01:16,252 uvicorn.error INFO Started server process [21892]
-2022-08-15 14:01:16,328 uvicorn.error INFO Waiting for application startup.
-2022-08-15 14:01:16,331 uvicorn.error INFO Application startup complete.
-2022-08-15 14:01:19,525 root INFO CHAMADA url=http://127.0.0.1:8000/classifier?sepal_lenght=5.1&sepal_width=4.0&petal_lenght=3&petal_width=1
-2022-08-15 14:01:19,532 root INFO RESPOSTA: {'species': 'versicolor'}
-2022-08-15 14:01:39,168 uvicorn.error INFO Shutting down
-2022-08-15 14:01:39,275 uvicorn.error INFO Waiting for application shutdown.
-2022-08-15 14:01:39,278 uvicorn.error INFO Application shutdown complete.
-2022-08-15 14:01:39,280 uvicorn.error INFO Finished server process [21892]
-2022-08-15 14:01:41,426 uvicorn.error INFO Started server process [21896]
-2022-08-15 14:01:41,501 uvicorn.error INFO Waiting for application startup.
-2022-08-15 14:01:41,504 uvicorn.error INFO Application startup complete.
-2022-08-15 14:01:44,943 root INFO CHAMADA url=http://127.0.0.1:8000/classifier?sepal_lenght=5.1&sepal_width=4.0&petal_lenght=3&petal_width=1
-2022-08-15 14:01:44,962 root INFO RESPOSTA: {'species': 'versicolor'}
-2022-08-15 14:03:22,040 uvicorn.error INFO Shutting down
-2022-08-15 14:03:22,146 uvicorn.error INFO Waiting for application shutdown.
-2022-08-15 14:03:22,148 uvicorn.error INFO Application shutdown complete.
-2022-08-15 14:03:22,151 uvicorn.error INFO Finished server process [21896]
-2022-08-15 14:03:24,314 uvicorn.error INFO Started server process [21899]
-2022-08-15 14:03:24,389 uvicorn.error INFO Waiting for application startup.
-2022-08-15 14:03:24,392 uvicorn.error INFO Application startup complete.
-2022-08-15 14:03:32,247 uvicorn.error INFO Shutting down
-2022-08-15 14:03:32,354 uvicorn.error INFO Waiting for application shutdown.
-2022-08-15 14:03:32,356 uvicorn.error INFO Application shutdown complete.
-2022-08-15 14:03:32,358 uvicorn.error INFO Finished server process [21899]
-2022-08-15 14:03:34,637 uvicorn.error INFO Started server process [21902]
-2022-08-15 14:03:34,719 uvicorn.error INFO Waiting for application startup.
-2022-08-15 14:03:34,722 uvicorn.error INFO Application startup complete.
-2022-08-15 15:00:41,893 uvicorn.error INFO Shutting down
-2022-08-15 15:00:41,999 uvicorn.error INFO Waiting for application shutdown.
-2022-08-15 15:00:42,002 uvicorn.error INFO Application shutdown complete.
-2022-08-15 15:00:42,004 uvicorn.error INFO Finished server process [21902]
+2022-08-15 22:18:09,663 uvicorn.error INFO Started server process [23048]
+2022-08-15 22:18:09,758 uvicorn.error INFO Waiting for application startup.
+2022-08-15 22:18:09,760 uvicorn.error INFO Application startup complete.
+2022-08-15 22:18:30,656 uvicorn.error INFO Shutting down
+2022-08-15 22:18:30,765 uvicorn.error INFO Waiting for application shutdown.
+2022-08-15 22:18:30,767 uvicorn.error INFO Application shutdown complete.
+2022-08-15 22:18:30,770 uvicorn.error INFO Finished server process [23048]
+2022-08-15 22:37:41,497 uvicorn.error INFO Started server process [23209]
+2022-08-15 22:37:41,592 uvicorn.error INFO Waiting for application startup.
+2022-08-15 22:37:41,595 uvicorn.error INFO Application startup complete.
+2022-08-15 22:38:02,199 uvicorn.error INFO Shutting down
+2022-08-15 22:38:02,303 uvicorn.error INFO Waiting for application shutdown.
+2022-08-15 22:38:02,306 uvicorn.error INFO Application shutdown complete.
+2022-08-15 22:38:02,309 uvicorn.error INFO Finished server process [23209]

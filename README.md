@@ -39,5 +39,6 @@ Também é possível utilizar um programa como o Insomnia para testar o envio de
 No caso de um Docker container, por exemplo, uma requisição para 
 ```http://0.0.0.0/classifier?sepal_lenght=7.1&sepal_width=6.4&petal_lenght=5.5&petal_width=2.3``` irá retornar o objeto ```{"species": "virginica"}```
 
-Os logs ficam no arquivo logs.log dentro da pasta /app
-Para acessar os logs no Sentry, é necessário criar uma conta no site (sentry.io) e obter uma DSN para o envio dos logs
+Os logs ficam no arquivo logs.log dentro da pasta ```/app```.
+
+Para acessar os logs no Sentry, é necessário criar uma conta no site (sentry.io) e obter uma DSN para o envio dos logs.
