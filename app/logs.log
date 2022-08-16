@@ -12,3 +12,10 @@
 2022-08-15 22:38:02,303 uvicorn.error INFO Waiting for application shutdown.
 2022-08-15 22:38:02,306 uvicorn.error INFO Application shutdown complete.
 2022-08-15 22:38:02,309 uvicorn.error INFO Finished server process [23209]
+2022-08-16 00:38:31,916 uvicorn.error INFO Started server process [24796]
+2022-08-16 00:38:32,005 uvicorn.error INFO Waiting for application startup.
+2022-08-16 00:38:32,007 uvicorn.error INFO Application startup complete.
+2022-08-16 00:38:48,941 uvicorn.error INFO Shutting down
+2022-08-16 00:38:49,047 uvicorn.error INFO Waiting for application shutdown.
+2022-08-16 00:38:49,049 uvicorn.error INFO Application shutdown complete.
+2022-08-16 00:38:49,051 uvicorn.error INFO Finished server process [24796]

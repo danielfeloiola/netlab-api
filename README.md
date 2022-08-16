@@ -1,6 +1,6 @@
 ## NETLAB API
 
-Uma API que recebe as medidas de pétalas e sépalas e responde com o tipo de iris
+Uma API que recebe as medidas de pétalas e sépalas e responde com o tipo de iris. É possível testar a API no Heroku no link: https://netlab-api.herokuapp.com/docs.
 
 # Tecnologias
 
@@ -42,3 +42,4 @@ No caso de um Docker container, por exemplo, uma requisição para
 Os logs ficam no arquivo logs.log dentro da pasta ```/app```.
 
 Para acessar os logs no Sentry, é necessário criar uma conta no site (sentry.io) e obter uma DSN para o envio dos logs.
+
